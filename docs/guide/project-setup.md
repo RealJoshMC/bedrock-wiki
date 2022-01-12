@@ -20,7 +20,7 @@ C:\Users\USERNAME\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\Lo
 
 ### Android
 
-`Phone > games > com.mojang`
+`Phone > Android > data > com.mojang.minecraftpe > files > games > com.mojang `
 
 ### iOS
 
